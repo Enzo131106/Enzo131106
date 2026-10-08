@@ -1,72 +1,84 @@
 <div align="center">
 
-# ENZO CAMILO
-
-### Creative Developer · MMI Student
-
-**Développement web · Création numérique · Jeu vidéo**
-
-<br>
-
-[🌐 Portfolio](#) · [💼 LinkedIn](#) · [✉️ Contact](#)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=ENZO%20CAMILO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creative%20Developer%20%7C%20MMI%20Student&descAlignY=58&descSize=18">
 
 </div>
 
----
-
-## 👋 À propos
-
-Étudiant en **MMI à l'IUT de Tarbes**, je m'intéresse au développement web, à la création numérique et au jeu vidéo.
-
-J'aime créer des projets qui combinent **développement, créativité et expériences interactives**.
-
----
-
-## 🛠️ Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,threejs,git,github,unity" />
-</p>
-
----
-
-## 🚀 Projets
-
-### Portfolio
-
-Mon portfolio personnel regroupant mes projets et expérimentations.
-
-`HTML` `CSS` `JavaScript` `Three.js`
-
-→ **[Voir le projet](#)**
-
----
-
-### Projet 02
-
-Une courte description de ton projet.
-
-`Technologie` `Technologie`
-
-→ **[Voir le projet](#)**
-
----
-
-### Projet 03
-
-Une courte description de ton projet.
-
-`Technologie` `Technologie`
-
-→ **[Voir le projet](#)**
-
----
-
-## 📊 GitHub
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Enzo131106&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165">
+### Salut, moi c'est Enzo 👋
+
+Je suis étudiant en **MMI à l'IUT de Tarbes**.
+
+Je crée des projets autour du **développement web**, de la **création numérique**
+et du **jeu vidéo**.
+
+J'aime expérimenter, apprendre en faisant et surtout donner une vraie identité
+aux projets que je réalise.
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ⚡ Ce que j'aime créer
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🌐 WEB
+
+Interfaces
+Expériences interactives
+JavaScript
+3D dans le navigateur
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎮 CRÉATION
+
+Jeu vidéo
+Expérimentation
+Création numérique
+Expériences interactives
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Mes outils
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,threejs,git,github,unity&perline=8" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 💻 Quelques chiffres
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Enzo131106&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo131106&layout=compact&hide_border=true&theme=transparent" height="165">
 
@@ -76,8 +88,20 @@ Une courte description de ton projet.
 
 <div align="center">
 
-### Let's build something.
+### ✦ Curieux par nature.
 
-**[Portfolio](#) · [LinkedIn](#) · [Contact](#)**
+### ✦ Créatif par passion.
+
+### ✦ Développeur par envie.
+
+<br>
+
+**Merci d'être passé sur mon profil.**
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer">
 
 </div>
