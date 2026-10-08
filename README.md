@@ -15,60 +15,68 @@ interactive** à ce que je crée.
 
 <br>
 
-─────────────── ✦ ───────────────
+<p>
+<span>━━━</span>　<span>✦</span>　<span>━━━</span>
+</p>
 
-### Ce que je crée
+### `01` · Ce que je crée
 
 <br>
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### WEB
+### `WEB`
 
-────────────
+<br>
 
-**Interfaces modernes**
+**INTERFACES MODERNES**
+
+<br>
 
 Expériences interactives
-JavaScript · Three.js
-3D · WebGL
+`JavaScript` · `Three.js`
+`3D` · `WebGL`
 
-<br>
+<br><br>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### GAME DEV
+### `GAME DEV`
 
-────────────
+<br>
 
-**Jeu vidéo**
+**JEU VIDÉO**
+
+<br>
 
 Gameplay · Prototypes
-Unity
+`Unity`
 Expérimentation
 
-<br>
+<br><br>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### CRÉATION
+### `CRÉATION`
 
-────────────
+<br>
 
-**Création numérique**
+**CRÉATION NUMÉRIQUE**
+
+<br>
 
 Direction visuelle
 Motion · Interaction
 Expériences créatives
 
-<br>
+<br><br>
 
 </td>
 
@@ -77,9 +85,11 @@ Expériences créatives
 
 <br>
 
-─────────────── ✦ ───────────────
+<p>
+<span>━━━</span>　<span>✦</span>　<span>━━━</span>
+</p>
 
-### Technologies & outils
+### `02` · Technologies & outils
 
 <br>
 
@@ -87,9 +97,17 @@ Expériences créatives
 
 <br><br>
 
-─────────────── ✦ ───────────────
+<p>
+<code>HTML</code>　<code>CSS</code>　<code>JAVASCRIPT</code>　<code>THREE.JS</code>　<code>UNITY</code>　<code>GIT</code>
+</p>
 
-### GitHub
+<br>
+
+<p>
+<span>━━━</span>　<span>✦</span>　<span>━━━</span>
+</p>
+
+### `03` · GitHub
 
 <br>
 
@@ -99,16 +117,20 @@ Expériences créatives
 
 <br><br>
 
-─────────────── ✦ ───────────────
+<p>
+<span>━━━</span>　<span>✦</span>　<span>━━━</span>
+</p>
 
-### Ma façon de travailler
+### `04` · Ma façon de travailler
+
+<br>
 
 J'aime **apprendre en expérimentant**, tester de nouvelles idées et repousser
 les limites de ce que je peux créer avec les technologies que j'utilise.
 
 Chaque projet est pour moi une occasion d'apprendre quelque chose de nouveau.
 
-<br>
+<br><br>
 
 **Merci d'être passé sur mon profil !** 👋
 
