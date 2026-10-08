@@ -2,102 +2,63 @@
 
 # ENZO CAMILO
 
-### Creative Developer · MMI Student · Digital Creator
+### Creative Developer · MMI Student
 
-Étudiant en **MMI à l'IUT de Tarbes**, je m'intéresse au développement web,
-à la création numérique, au jeu vidéo et aux expériences interactives.
+**Développement web · Création numérique · Jeu vidéo**
 
 <br>
 
-[**🌐 Portfolio**](#) · [**💼 LinkedIn**](#) · [**✉️ Contact**](#)
+[🌐 Portfolio](#) · [💼 LinkedIn](#) · [✉️ Contact](#)
 
 </div>
 
 ---
 
-## 👋 About me
+## 👋 À propos
 
-Je suis un étudiant curieux qui aime transformer des idées en projets concrets.
+Étudiant en **MMI à l'IUT de Tarbes**, je m'intéresse au développement web, à la création numérique et au jeu vidéo.
 
-Je m'intéresse particulièrement à la création d'expériences **visuelles, interactives et originales**, en combinant développement et créativité.
-
-Actuellement, j'explore notamment :
-
-* 🌐 Développement web
-* 🎮 Développement de jeux vidéo
-* 🧊 3D et expériences interactives
-* 🎨 Création numérique
-* ⚙️ JavaScript et développement créatif
+J'aime créer des projets qui combinent **développement, créativité et expériences interactives**.
 
 ---
 
-## ⚡ Skills & Technologies
-
-### 💻 Development
+## 🛠️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,threejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,threejs,git,github,unity" />
 </p>
 
-### 🎮 Creative & Game Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,blender" />
-</p>
-
-> Technologies que j'utilise ou que j'explore actuellement.
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projets
 
-### 01 · Portfolio
+### Portfolio
 
-**Mon portfolio personnel**
+Mon portfolio personnel regroupant mes projets et expérimentations.
 
-Un espace regroupant mes projets, expérimentations et travaux dans le développement et la création numérique.
-
-**Technologies :** `HTML` `CSS` `JavaScript` `Three.js`
+`HTML` `CSS` `JavaScript` `Three.js`
 
 → **[Voir le projet](#)**
 
 ---
 
-### 02 · Projet à venir
+### Projet 02
 
-**Une nouvelle expérience interactive**
+Une courte description de ton projet.
 
-Projet actuellement en développement.
-
-**Technologies :** `JavaScript` `Three.js`
+`Technologie` `Technologie`
 
 → **[Voir le projet](#)**
 
 ---
 
-### 03 · Projet à venir
+### Projet 03
 
-**Expérimentation créative**
+Une courte description de ton projet.
 
-Une expérimentation autour du développement, de la 3D ou du jeu vidéo.
-
-**Technologies :** `À définir`
+`Technologie` `Technologie`
 
 → **[Voir le projet](#)**
-
----
-
-## 🧪 Currently exploring
-
-```text
-Three.js        ███████████████████░░
-JavaScript      ██████████████████░░░
-Web Development ███████████████████░░
-3D              ███████████████░░░░░
-Game Development██████████████░░░░░░
-```
-
-Je cherche constamment à apprendre de nouvelles technologies et à améliorer ma manière de créer des expériences numériques.
 
 ---
 
@@ -113,26 +74,10 @@ Je cherche constamment à apprendre de nouvelles technologies et à améliorer m
 
 ---
 
-## 📈 Contributions
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enzo131106&hide_border=true&theme=github-compact">
+### Let's build something.
 
-</div>
-
----
-
-## 📫 Contact
-
-Si tu veux discuter d'un projet, collaborer ou simplement échanger :
-
-<div align="center">
-
-**🌐 Portfolio** · **💼 LinkedIn** · **📧 Email**
-
-<br>
-
-*Always learning. Always creating.*
+**[Portfolio](#) · [LinkedIn](#) · [Contact](#)**
 
 </div>
