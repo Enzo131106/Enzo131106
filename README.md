@@ -82,8 +82,6 @@ Expériences interactives
 
 ---
 
-<br>
-
 <div align="center">
 
 ## 📊 GitHub
