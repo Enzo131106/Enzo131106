@@ -6,111 +6,113 @@
 
 ### Salut, moi c'est Enzo 👋
 
-Je suis étudiant en **MMI à l'IUT de Tarbes**.
+**Étudiant en MMI à l'IUT de Tarbes**, je m'intéresse au développement,
+à la création numérique et aux expériences interactives.
 
-Je crée des projets autour du **développement web**, de la **création numérique**
-et du **jeu vidéo**.
-
-J'aime expérimenter, apprendre en faisant et surtout donner une vraie identité
-aux projets que je réalise.
-
-</div>
-
-<br><br>
-
----
+Je transforme mes idées en projets concrets, en expérimentant avec différentes
+technologies et en cherchant toujours à donner une **identité visuelle et
+interactive** à ce que je crée.
 
 <br>
 
-<div align="center">
+─────────────── ✦ ───────────────
 
-## ⚡ Ce que j'aime créer
+### 🚀 Ce que je crée
 
 <br>
 
-<table align="center">
+<table>
 <tr>
-<td width="350" align="center">
 
-### 🌐 WEB
+<td width="33%" valign="top">
+
+### WEB
+
+────────────
+
+**Interfaces modernes**
+
+Expériences interactives
+JavaScript · Three.js
+3D · WebGL
 
 <br>
-
-Interfaces
-Expériences interactives
-JavaScript
-3D dans le navigateur
 
 </td>
 
-<td width="350" align="center">
+<td width="33%" valign="top">
 
-### 🎮 CRÉATION
+### GAME DEV
 
-<br>
+────────────
 
-Jeu vidéo
+**Jeu vidéo**
+
+Gameplay · Prototypes
+Unity
 Expérimentation
-Création numérique
-Expériences interactives
+
+<br>
 
 </td>
+
+<td width="33%" valign="top">
+
+### CRÉATION
+
+────────────
+
+**Création numérique**
+
+Direction visuelle
+Motion · Interaction
+Expériences créatives
+
+<br>
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-</div>
+─────────────── ✦ ───────────────
+
+### 🛠️ Technologies & outils
 
 <br>
 
----
-
-<br>
-
-<div align="center">
-
-## 🛠️ Mes outils
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,threejs,git,github,unity&perline=8" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,threejs,git,github,unity&perline=8">
 
 <br><br>
 
----
+─────────────── ✦ ───────────────
+
+### 📊 GitHub
 
 <br>
-
-<div align="center">
-
-## 📊 GitHub
-
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Enzo131106&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo131106&layout=compact&hide_border=true&theme=transparent" height="165">
 
-<br>
-
-</div>
-
 <br><br>
 
----
+─────────────── ✦ ───────────────
+
+### 💡 Ma façon de travailler
+
+J'aime **apprendre en expérimentant**, tester de nouvelles idées et repousser
+les limites de ce que je peux créer avec les technologies que j'utilise.
+
+Chaque projet est pour moi une occasion d'apprendre quelque chose de nouveau.
 
 <br>
 
-<div align="center">
+**Merci d'être passé sur mon profil !** 👋
 
 <br>
-
-**Merci d'être passé sur mon profil.**
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer">
 
