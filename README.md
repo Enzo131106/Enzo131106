@@ -17,7 +17,7 @@ interactive** à ce que je crée.
 
 ─────────────── ✦ ───────────────
 
-### 🚀 Ce que je crée
+### Ce que je crée
 
 <br>
 
@@ -79,7 +79,7 @@ Expériences créatives
 
 ─────────────── ✦ ───────────────
 
-### 🛠️ Technologies & outils
+### Technologies & outils
 
 <br>
 
@@ -89,7 +89,7 @@ Expériences créatives
 
 ─────────────── ✦ ───────────────
 
-### 📊 GitHub
+### GitHub
 
 <br>
 
@@ -101,7 +101,7 @@ Expériences créatives
 
 ─────────────── ✦ ───────────────
 
-### 💡 Ma façon de travailler
+### Ma façon de travailler
 
 J'aime **apprendre en expérimentant**, tester de nouvelles idées et repousser
 les limites de ce que je peux créer avec les technologies que j'utilise.
