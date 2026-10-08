@@ -88,14 +88,6 @@ Expériences interactives
 
 <div align="center">
 
-### ✦ Curieux par nature.
-
-### ✦ Créatif par passion.
-
-### ✦ Développeur par envie.
-
-<br>
-
 **Merci d'être passé sur mon profil.**
 
 </div>
