@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=ENZO%20CAMILO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creative%20Developer%20%7C%20MMI%20Student&descAlignY=58&descSize=18">
 
-</div>
-
 <br>
-
-<div align="center">
 
 ### Salut, moi c'est Enzo 👋
 
@@ -20,21 +16,25 @@ aux projets que je réalise.
 
 </div>
 
-<br>
+<br><br>
 
 ---
+
+<br>
 
 <div align="center">
 
 ## ⚡ Ce que j'aime créer
 
-</div>
+<br>
 
 <table align="center">
 <tr>
-<td width="50%" align="center">
+<td width="350" align="center">
 
 ### 🌐 WEB
+
+<br>
 
 Interfaces
 Expériences interactives
@@ -43,9 +43,11 @@ JavaScript
 
 </td>
 
-<td width="50%" align="center">
+<td width="350" align="center">
 
 ### 🎮 CRÉATION
+
+<br>
 
 Jeu vidéo
 Expérimentation
@@ -56,7 +58,15 @@ Expériences interactives
 </tr>
 </table>
 
+<br>
+
+</div>
+
+<br>
+
 ---
+
+<br>
 
 <div align="center">
 
@@ -68,13 +78,15 @@ Expériences interactives
 
 </div>
 
-<br>
+<br><br>
 
 ---
 
+<br>
+
 <div align="center">
 
-## 💻 Quelques chiffres
+## 📊 GitHub
 
 <br>
 
@@ -82,17 +94,29 @@ Expériences interactives
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo131106&layout=compact&hide_border=true&theme=transparent" height="165">
 
+<br>
+
 </div>
+
+<br><br>
 
 ---
 
+<br>
+
 <div align="center">
+
+### ✦ Curieux par nature.
+
+### ✦ Créatif par passion.
+
+### ✦ Développeur par envie.
+
+<br>
 
 **Merci d'être passé sur mon profil.**
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer">
 
