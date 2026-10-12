@@ -1,141 +1,144 @@
-<div align="center">
+<!-- ==================== BANNIÈRE ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=ENZO%20CAMILO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creative%20Developer%20%7C%20MMI%20Student&descAlignY=58&descSize=18">
-
-<br>
-
-### Salut, moi c'est Enzo 👋
-
-**Étudiant en MMI à l'IUT de Tarbes**, je m'intéresse au développement,
-à la création numérique et aux expériences interactives.
-
-Je transforme mes idées en projets concrets, en expérimentant avec différentes
-technologies et en cherchant toujours à donner une **identité visuelle et
-interactive** à ce que je crée.
-
-<br>
-
-<p>
-<span>━━━</span>　<span>✦</span>　<span>━━━</span>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:0D47A1,100:38BDF8&height=220&section=header&text=ENZO%20CAMILO&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"
+    width="100%"
+    alt="Enzo Camilo"
+  />
 </p>
 
-### `01` · Ce que je crée
+<h3 align="center">Étudiant MMI · Développement web · Game development</h3>
 
-<br>
-
-<table>
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-### `WEB`
-
-<br>
-
-**INTERFACES MODERNES**
-
-<br>
-
-Expériences interactives
-`JavaScript` · `Three.js`
-`3D` · `WebGL`
-
-<br><br>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### `GAME DEV`
-
-<br>
-
-**JEU VIDÉO**
-
-<br>
-
-Gameplay · Prototypes
-`Unity`
-Expérimentation
-
-<br><br>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### `CRÉATION`
-
-<br>
-
-**CRÉATION NUMÉRIQUE**
-
-<br>
-
-Direction visuelle
-Motion · Interaction
-Expériences créatives
-
-<br><br>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p>
-<span>━━━</span>　<span>✦</span>　<span>━━━</span>
+<p align="center">
+  Mon ambition : devenir game developer et fonder mon propre studio indépendant de jeux vidéo.
 </p>
 
-### `02` · Technologies & outils
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,threejs,git,github,unity&perline=8">
-
-<br><br>
-
-<p>
-<code>HTML</code>　<code>CSS</code>　<code>JAVASCRIPT</code>　<code>THREE.JS</code>　<code>UNITY</code>　<code>GIT</code>
+<p align="center">
+  Étudiant en Métiers du Multimédia et de l'Internet à l'IUT de Tarbes, je m'intéresse au développement, à la programmation et à la création d'expériences interactives. Je souhaite développer mes compétences techniques et créatives pour donner vie à mes propres univers vidéoludiques et, à terme, créer mon studio de jeux vidéo indépendant.
 </p>
 
-<br>
-
-<p>
-<span>━━━</span>　<span>✦</span>　<span>━━━</span>
+<p align="center">
+  <a href="https://enzo131106.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Mon_portfolio-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Mon portfolio"/>
+  </a>
+  <a href="https://github.com/Enzo131106?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Mes_projets-071A33?style=for-the-badge&logo=github&logoColor=white" alt="Mes projets GitHub"/>
+  </a>
 </p>
 
-### `03` · GitHub
+---
 
-<br>
+## `01` — À propos
 
-<img src="https://github-readme-stats.vercel.app/api?username=Enzo131106&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165">
+```js
+const enzo = {
+    formation: "MMI — IUT de Tarbes",
+    goal: "Devenir game developer",
+    dream: "Créer mon studio de jeux vidéo indépendant",
+    interests: [
+        "Développement de jeux vidéo",
+        "Programmation",
+        "Développement web",
+        "Création numérique"
+    ],
+    technologies: ["HTML", "CSS", "JavaScript", "Three.js"],
+    mindset: "Apprendre, expérimenter, créer."
+};
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo131106&layout=compact&hide_border=true&theme=transparent" height="165">
+- Développer des projets interactifs et des expériences immersives.
+- Explorer les possibilités créatives de la programmation.
+- Concevoir des jeux vidéo en associant technique, gameplay et direction artistique.
+- Construire progressivement les compétences nécessaires pour créer mon propre studio indépendant.
 
-<br><br>
+---
 
-<p>
-<span>━━━</span>　<span>✦</span>　<span>━━━</span>
+## `02` — Stack technique
+
+<p align="center">
+  <strong>FRONT-END</strong>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="HTML, CSS, JavaScript et Bootstrap"/>
 </p>
 
-### `04` · Ma façon de travailler
+<p align="center">
+  <strong>3D & INTERACTIVITÉ</strong>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js"/>
+</p>
 
-<br>
+<p align="center">
+  <strong>OUTILS</strong>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub et VS Code"/>
+</p>
 
-J'aime **apprendre en expérimentant**, tester de nouvelles idées et repousser
-les limites de ce que je peux créer avec les technologies que j'utilise.
+---
 
-Chaque projet est pour moi une occasion d'apprendre quelque chose de nouveau.
+## `03` — Projets
 
-<br><br>
+### Portfolio personnel
 
-**Merci d'être passé sur mon profil !** 👋
+Un espace pour présenter mon univers, mes compétences et mes réalisations à travers une expérience web personnalisée.
 
-<br>
+- **Interface sur mesure** — une identité visuelle travaillée.
+- **Animations interactives** — des effets visuels intégrés à la navigation.
+- **Exploration 3D** — une expérience immersive dans le navigateur avec Three.js.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer">
+**Technologies :** HTML · CSS · JavaScript · Bootstrap · Three.js
 
-</div>
+<p align="center">
+  <a href="https://enzo131106.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visiter_le_portfolio-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visiter le portfolio"/>
+  </a>
+  <a href="https://github.com/Enzo131106/Portfolio" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Code_source-071A33?style=for-the-badge&logo=github&logoColor=white" alt="Code source du portfolio"/>
+  </a>
+</p>
+
+---
+
+## `04` — Activité GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Enzo131106&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true"
+    height="165"
+    alt="Statistiques GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo131106&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    height="165"
+    alt="Langages les plus utilisés"
+  />
+</p>
+
+---
+
+## `05` — La suite
+
+<p align="center">
+  <strong>Toujours en train d'apprendre. Toujours quelque chose à construire.</strong>
+</p>
+
+<p align="center">
+  Chaque projet est une occasion de progresser, d'expérimenter et de me rapprocher de mon objectif : créer mes propres jeux vidéo et fonder mon studio indépendant.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Enzo131106?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Explorer_mes_dépôts-0D47A1?style=for-the-badge&logo=github&logoColor=white" alt="Explorer mes dépôts"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <h3 align="center">Merci pour votre visite !</h3>
+  <p align="center">Au plaisir de vous retrouver au détour d'un projet.</p>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0D47A1,100:071A33&height=90&section=footer" width="100%" alt=""/>
+</p>
