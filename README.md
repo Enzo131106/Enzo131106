@@ -42,7 +42,7 @@ const enzo = {
         "Développement web",
         "Création numérique"
     ],
-    technologies: ["HTML", "CSS", "JavaScript", "Three.js"],
+    technologies: ["HTML", "CSS", "JavaScript", "Three.js", "GSAP"],
     mindset: "Apprendre, expérimenter, créer."
 };
 ```
@@ -66,6 +66,7 @@ const enzo = {
   <strong>3D & INTERACTIVITÉ</strong>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js"/>
+  <img src="https://raw.githubusercontent.com/Enzo131106/Portfolio/main/assets/icon/skills/gsap.svg" width="48" height="48" alt="GSAP"/>
 </p>
 
 <p align="center">
@@ -86,7 +87,7 @@ Un espace pour présenter mon univers, mes compétences et mes réalisations à 
 - **Animations interactives** — des effets visuels intégrés à la navigation.
 - **Exploration 3D** — une expérience immersive dans le navigateur avec Three.js.
 
-**Technologies :** HTML · CSS · JavaScript · Bootstrap · Three.js
+**Technologies :** HTML · CSS · JavaScript · Bootstrap · Three.js · GSAP
 
 <p align="center">
   <a href="https://enzo131106.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
