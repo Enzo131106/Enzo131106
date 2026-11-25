@@ -1,15 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="48" viewBox="0 0 100 48" role="img" aria-labelledby="title">
-  <title id="title">ShaderLab et HLSL</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="48" viewBox="0 0 100 48" role="img">
+  <title>ShaderLab and HLSL</title>
+  <!-- Icons adapted from vscode-icons/vscode-icons, MIT license.
+The MIT License (MIT)
+
+Copyright The vscode-icons Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+  -->
   <rect width="48" height="48" rx="10" fill="#242938"/>
   <rect x="52" width="48" height="48" rx="10" fill="#242938"/>
-  <g fill="none" stroke="#9FA8FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M24 8 34 14 24 20 14 14Z M14 19 24 25 34 19"/>
-  </g>
-  <g fill="none" stroke="#61DAFB" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
-    <path d="m70 9-6 6 6 6m12-12 6 6-6 6m-3-13-6 14"/>
-  </g>
-  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700">
-    <text x="24" y="36" font-size="8.5" fill="#D8DCFF">ShaderLab</text>
-    <text x="76" y="36" font-size="11" fill="#A5E8FF">HLSL</text>
+  <g transform="translate(8 3)"><path fill="#cfcfcf" d="m20.152 16 4.9-8.461L27.42 16l-2.368 8.46zm-2.388 1.374 4.9 8.46-8.534-2.186-6.166-6.273Zm4.9-11.21-4.9 8.461h-9.8l6.166-6.273zm7 6.957L26.669 2 15.511 4.98l-1.652 2.9-3.351-.02L2.341 16l8.167 8.139 3.35-.025 1.654 2.9L26.669 30l2.989-11.119L27.961 16l1.7-2.879Z"/></g>
+  <g transform="translate(60 3)"><path fill="#78B9FF" d="M9.525 21.947H7.56V17.1H3.958v4.847H2V10.044h1.958v4.748H7.56v-4.748h1.965zm7.167 0h-5.179V10.044h1.959v9.729h3.22zm.77-.456v-2.657a3.7 3.7 0 0 0 1.146.909 2.8 2.8 0 0 0 1.249.3 2 2 0 0 0 .646-.092 1.3 1.3 0 0 0 .461-.252 1 1 0 0 0 .276-.382 1.2 1.2 0 0 0 .091-.478 1.3 1.3 0 0 0-.145-.623 1.9 1.9 0 0 0-.4-.506 4 4 0 0 0-.6-.448q-.346-.215-.746-.439a4.05 4.05 0 0 1-1.519-1.419 3.9 3.9 0 0 1-.5-2.026 4.2 4.2 0 0 1 .273-1.6 3 3 0 0 1 .744-1.1 2.9 2.9 0 0 1 1.088-.634 4.2 4.2 0 0 1 1.31-.2 6 6 0 0 1 1.2.111 3.8 3.8 0 0 1 .967.345v2.482a3 3 0 0 0-.476-.365 3 3 0 0 0-.53-.262A3 3 0 0 0 21.46 12a3 3 0 0 0-.512-.05 2 2 0 0 0-.606.087 1.4 1.4 0 0 0-.461.245 1.1 1.1 0 0 0-.291.377 1.14 1.14 0 0 0-.1.494 1.2 1.2 0 0 0 .115.536 1.7 1.7 0 0 0 .328.448 3.5 3.5 0 0 0 .515.415q.301.204.686.419a7 7 0 0 1 .936.635 3.7 3.7 0 0 1 .713.759 3.3 3.3 0 0 1 .455.967 4.6 4.6 0 0 1 .158 1.266 4.4 4.4 0 0 1-.277 1.672 2.9 2.9 0 0 1-.749 1.1 2.8 2.8 0 0 1-1.1.6 4.7 4.7 0 0 1-1.325.182 5.5 5.5 0 0 1-1.361-.166 3.4 3.4 0 0 1-1.122-.495M30 21.947h-5.178V10.044h1.958v9.729H30z"/></g>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="8" font-weight="600" text-anchor="middle">
+    <text x="24" y="42" fill="#E3E5E8">ShaderLab</text>
+    <text x="76" y="42" fill="#E3E5E8">HLSL</text>
   </g>
 </svg>
