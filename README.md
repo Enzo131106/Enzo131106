@@ -8,14 +8,10 @@
   />
 </p>
 
-<h3 align="center">Étudiant MMI · Développement web · Game development</h3>
+<h3 align="center">Étudiant en BUT MMI · Développement web · Game dev</h3>
 
 <p align="center">
-  Mon ambition : devenir game developer et fonder mon propre studio indépendant de jeux vidéo.
-</p>
-
-<p align="center">
-  Étudiant en Métiers du Multimédia et de l'Internet à l'IUT de Tarbes, je m'intéresse au développement, à la programmation et à la création d'expériences interactives. Je souhaite développer mes compétences techniques et créatives pour donner vie à mes propres univers vidéoludiques et, à terme, créer mon studio de jeux vidéo indépendant.
+  Étudiant à l'IUT de Tarbes, je développe des sites web et je m'intéresse particulièrement à la 3D, aux animations et à la programmation de jeux vidéo.
 </p>
 
 <p align="center">
@@ -31,26 +27,9 @@
 
 ## `01` — À propos
 
-```js
-const enzo = {
-    formation: "MMI — IUT de Tarbes",
-    goal: "Devenir game developer",
-    dream: "Créer mon studio de jeux vidéo indépendant",
-    interests: [
-        "Développement de jeux vidéo",
-        "Programmation",
-        "Développement web",
-        "Création numérique"
-    ],
-    technologies: ["HTML", "CSS", "JavaScript", "Three.js", "GSAP"],
-    mindset: "Apprendre, expérimenter, créer."
-};
-```
+Ce qui me plaît dans le développement, c'est de pouvoir passer d'une idée à quelque chose de concret, avec lequel on peut interagir. En MMI, j'apprends notamment à programmer et à concevoir des interfaces web.
 
-- Développer des projets interactifs et des expériences immersives.
-- Explorer les possibilités créatives de la programmation.
-- Concevoir des jeux vidéo en associant technique, gameplay et direction artistique.
-- Construire progressivement les compétences nécessaires pour créer mon propre studio indépendant.
+Mon objectif est de travailler dans le développement de jeux vidéo et, un jour, de monter mon propre studio indépendant.
 
 ---
 
@@ -66,7 +45,7 @@ const enzo = {
   <strong>3D & INTERACTIVITÉ</strong>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js"/>
-  <img src="https://raw.githubusercontent.com/Enzo131106/Portfolio/main/assets/icon/skills/gsap.svg" width="48" height="48" alt="GSAP"/>
+  <img src="https://raw.githubusercontent.com/Enzo131106/Portfolio/225ba316831007f4f9ff467ef65f6750123808ae/assets/icons/skills/gsap.svg" width="48" height="48" alt="GSAP"/>
 </p>
 
 <p align="center">
@@ -81,11 +60,7 @@ const enzo = {
 
 ### Portfolio personnel
 
-Un espace pour présenter mon univers, mes compétences et mes réalisations à travers une expérience web personnalisée.
-
-- **Interface sur mesure** — une identité visuelle travaillée.
-- **Animations interactives** — des effets visuels intégrés à la navigation.
-- **Exploration 3D** — une expérience immersive dans le navigateur avec Three.js.
+J'ai créé mon portfolio autour d'un univers spatial pour présenter mes projets et tester ce que je peux faire avec JavaScript. J'y ai notamment travaillé un décor 3D avec Three.js, des animations au défilement avec GSAP et un carrousel de projets.
 
 **Technologies :** HTML · CSS · JavaScript · Bootstrap · Three.js · GSAP
 
@@ -97,6 +72,12 @@ Un espace pour présenter mon univers, mes compétences et mes réalisations à 
     <img src="https://img.shields.io/badge/Code_source-071A33?style=for-the-badge&logo=github&logoColor=white" alt="Code source du portfolio"/>
   </a>
 </p>
+
+### Byte Invaders
+
+Un mini-jeu d'arcade inspiré de Space Invaders, intégré à mon portfolio. Je l'ai développé en JavaScript avec Canvas 2D, avec des commandes au clavier et sur mobile, un système de score et un record sauvegardé dans le navigateur.
+
+**[Jouer à Byte Invaders sur mon portfolio](https://enzo131106.github.io/Portfolio/)**
 
 ---
 
@@ -119,25 +100,12 @@ Un espace pour présenter mon univers, mes compétences et mes réalisations à 
 
 ## `05` — La suite
 
-<p align="center">
-  <strong>Toujours en train d'apprendre. Toujours quelque chose à construire.</strong>
-</p>
+J'aimerais approfondir la programmation de jeux vidéo et réaliser d'autres projets jouables en parallèle de mes études.
 
 <p align="center">
-  Chaque projet est une occasion de progresser, d'expérimenter et de me rapprocher de mon objectif : créer mes propres jeux vidéo et fonder mon studio indépendant.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Enzo131106?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Explorer_mes_dépôts-0D47A1?style=for-the-badge&logo=github&logoColor=white" alt="Explorer mes dépôts"/>
+  <a href="https://www.linkedin.com/in/enzo-camilo-4190a939b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <h3 align="center">Merci pour votre visite !</h3>
-  <p align="center">Au plaisir de vous retrouver au détour d'un projet.</p>
 </p>
 
 <p align="center">
