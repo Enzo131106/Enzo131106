@@ -1,113 +1,70 @@
-<!-- ==================== BANNIÈRE ==================== -->
+<!-- Bannière -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:0D47A1,100:38BDF8&height=220&section=header&text=ENZO%20CAMILO&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"
-    width="100%"
-    alt="Enzo Camilo"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:0D47A1,100:38BDF8&height=190&section=header&text=ENZO%20CAMILO&fontSize=54&fontColor=FFFFFF&fontAlignY=39&animation=fadeIn" width="100%" alt="Enzo Camilo"/>
 </p>
 
-<h3 align="center">Étudiant en BUT MMI · Développement web · Game dev</h3>
+<h3 align="center">Étudiant en BUT MMI · Développement web & jeux vidéo</h3>
 
 <p align="center">
-  Étudiant à l'IUT de Tarbes, je développe des sites web et je m'intéresse particulièrement à la 3D, aux animations et à la programmation de jeux vidéo.
+  IUT de Tarbes
 </p>
 
 <p align="center">
-  <a href="https://enzo131106.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Mon_portfolio-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Mon portfolio"/>
-  </a>
-  <a href="https://github.com/Enzo131106?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Mes_projets-071A33?style=for-the-badge&logo=github&logoColor=white" alt="Mes projets GitHub"/>
-  </a>
+  <a href="https://enzo131106.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/Enzo131106?tab=repositories"><img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-071A33?style=for-the-badge&logo=github&logoColor=white" alt="Dépôts GitHub"/></a>
+  <a href="https://www.linkedin.com/in/enzo-camilo-4190a939b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
 </p>
-
----
 
 ## `01` — À propos
 
-Ce qui me plaît dans le développement, c'est de pouvoir passer d'une idée à quelque chose de concret, avec lequel on peut interagir. En MMI, j'apprends notamment à programmer et à concevoir des interfaces web.
+Je m'intéresse surtout à la programmation, à la 3D sur le web et au développement de jeux vidéo. J'aime comprendre comment les choses fonctionnent et mettre en pratique ce que j'apprends dans mes projets.
 
-Mon objectif est de travailler dans le développement de jeux vidéo et, un jour, de monter mon propre studio indépendant.
+J'aimerais devenir développeur de jeux vidéo et, à terme, créer mon propre studio indépendant.
 
----
-
-## `02` — Stack technique
+## `02` — Mon portfolio
 
 <p align="center">
-  <strong>FRONT-END</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="HTML, CSS, JavaScript et Bootstrap"/>
+  <a href="https://enzo131106.github.io/Portfolio/">
+    <img src="https://raw.githubusercontent.com/Enzo131106/Portfolio/225ba316831007f4f9ff467ef65f6750123808ae/assets/images/portfolio-screenshot.webp" width="720" alt="Aperçu de mon portfolio à thème spatial"/>
+  </a>
 </p>
 
+J'ai choisi un univers spatial pour mon portfolio. Ce site me permet de présenter mes réalisations tout en expérimentant avec Three.js, les animations GSAP et les interactions en JavaScript.
+
 <p align="center">
-  <strong>3D & INTERACTIVITÉ</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js"/>
+  <a href="https://enzo131106.github.io/Portfolio/"><img src="https://img.shields.io/badge/Visiter_le_site-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visiter le site"/></a>
+  <a href="https://github.com/Enzo131106/Portfolio"><img src="https://img.shields.io/badge/Code_source-071A33?style=for-the-badge&logo=github&logoColor=white" alt="Code source"/></a>
+</p>
+
+## `03` — Technologies & outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" height="48" alt="HTML, CSS, JavaScript, Bootstrap"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="48" alt="Three.js"/>
   <img src="https://raw.githubusercontent.com/Enzo131106/Portfolio/225ba316831007f4f9ff467ef65f6750123808ae/assets/icons/skills/gsap.svg" width="48" height="48" alt="GSAP"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="48" alt="Git, GitHub, Visual Studio Code"/>
 </p>
 
 <p align="center">
-  <strong>OUTILS</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub et VS Code"/>
+  <sub>HTML · CSS · JavaScript · Bootstrap · Three.js · GSAP · Git · GitHub · VS Code</sub>
 </p>
-
----
-
-## `03` — Projets
-
-### Portfolio personnel
-
-J'ai créé mon portfolio autour d'un univers spatial pour présenter mes projets et tester ce que je peux faire avec JavaScript. J'y ai notamment travaillé un décor 3D avec Three.js, des animations au défilement avec GSAP et un carrousel de projets.
-
-**Technologies :** HTML · CSS · JavaScript · Bootstrap · Three.js · GSAP
-
-<p align="center">
-  <a href="https://enzo131106.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visiter_le_portfolio-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visiter le portfolio"/>
-  </a>
-  <a href="https://github.com/Enzo131106/Portfolio" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Code_source-071A33?style=for-the-badge&logo=github&logoColor=white" alt="Code source du portfolio"/>
-  </a>
-</p>
-
-### Byte Invaders
-
-Un mini-jeu d'arcade inspiré de Space Invaders, intégré à mon portfolio. Je l'ai développé en JavaScript avec Canvas 2D, avec des commandes au clavier et sur mobile, un système de score et un record sauvegardé dans le navigateur.
-
-**[Jouer à Byte Invaders sur mon portfolio](https://enzo131106.github.io/Portfolio/)**
-
----
 
 ## `04` — Activité GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Enzo131106&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true"
-    height="165"
-    alt="Statistiques GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo131106&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    height="165"
-    alt="Langages les plus utilisés"
-  />
-</p>
-
----
-
-## `05` — La suite
-
-J'aimerais approfondir la programmation de jeux vidéo et réaliser d'autres projets jouables en parallèle de mes études.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/enzo-camilo-4190a939b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Enzo131106&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9&amp;include_all_commits=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Enzo131106&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0D47A1&amp;icon_color=0D47A1&amp;text_color=24292F&amp;include_all_commits=true" height="165" alt="Statistiques GitHub"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo131106&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo131106&amp;layout=compact&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0D47A1&amp;text_color=24292F" height="165" alt="Langages les plus utilisés"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0D47A1,100:071A33&height=90&section=footer" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0D47A1,100:071A33&height=80&section=footer" width="100%" alt=""/>
 </p>
