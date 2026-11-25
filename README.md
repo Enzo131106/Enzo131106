@@ -39,22 +39,13 @@ J'ai choisi un univers spatial pour mon portfolio. Ce site me permet de présent
 
 ## `03` — Technologies & outils
 
-<p align="center">
-  <sub>Développement web & 3D</sub><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,threejs&theme=dark" height="48" alt="HTML, CSS, JavaScript, Bootstrap, Three.js"/>
-  <img src="https://raw.githubusercontent.com/Enzo131106/Portfolio/225ba316831007f4f9ff467ef65f6750123808ae/assets/icons/skills/gsap.svg" width="48" height="48" alt="GSAP"/>
-</p>
-
-<p align="center">
-  <sub>Game development & shaders</sub><br/>
-  <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark" height="48" alt="C#, Unity"/>
-  <img src="./assets/icons/shaders.svg" width="100" height="48" alt="ShaderLab, HLSL"/>
-</p>
-
-<p align="center">
-  <sub>Outils de développement</sub><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="48" alt="Git, GitHub, Visual Studio Code"/>
-</p>
+| Domaine | Technologies |
+| :--- | :--- |
+| **Développement web** | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" height="40" alt="HTML, CSS, JavaScript, Bootstrap"/> |
+| **3D & animations** | <img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="40" alt="Three.js"/> <img src="https://raw.githubusercontent.com/Enzo131106/Portfolio/225ba316831007f4f9ff467ef65f6750123808ae/assets/icons/skills/gsap.svg" width="40" height="40" alt="GSAP"/> |
+| **Développement de jeux** | <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark" height="40" alt="C#, Unity"/> |
+| **Programmation graphique** | [`ShaderLab`](https://docs.unity.com/en-us/engine/6000.3/manual/materials-and-shaders/shaders/writing-custom/shader-writing/sl) · [`HLSL`](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/) |
+| **Outils** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40" alt="Git, GitHub, Visual Studio Code"/> |
 
 ## `04` — Activité GitHub
 
