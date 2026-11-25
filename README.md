@@ -48,8 +48,7 @@ J'ai choisi un univers spatial pour mon portfolio. Ce site me permet de présent
 <p align="center">
   <sub>Game development & shaders</sub><br/><br/>
   <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark" height="48" alt="C#, Unity"/>
-  <br/>
-  <a href="https://docs.unity3d.com/Manual/SL-Reference.html"><code>ShaderLab</code></a> · <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/"><code>HLSL</code></a>
+  <img src="./assets/icons/shaders.svg" width="100" height="48" alt="ShaderLab, HLSL"/>
 </p>
 
 <p align="center">
