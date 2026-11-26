@@ -41,8 +41,9 @@ J'ai choisi un univers spatial pour mon portfolio. Ce site me permet de présent
 
 <p align="center">
   <sub>Développement web & 3D</sub><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,threejs&theme=dark" height="48" alt="HTML, CSS, JavaScript, Bootstrap, Three.js"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,threejs&theme=dark" height="48" alt="HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, Three.js"/>
   <img src="https://raw.githubusercontent.com/Enzo131106/Portfolio/225ba316831007f4f9ff467ef65f6750123808ae/assets/icons/skills/gsap.svg" width="48" height="48" alt="GSAP"/>
+  <img src="./assets/icons/q5.png" width="48" height="48" alt="q5.js"/>
 </p>
 
 <p align="center">

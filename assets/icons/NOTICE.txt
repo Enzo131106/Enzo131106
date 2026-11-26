@@ -1,0 +1,2 @@
+q5.png — Official q5.js icon, reproduced unchanged to identify the technology.
+Source: https://github.com/q5js/q5.js/blob/main/q5js_icon.png
